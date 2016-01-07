@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9.27" />
+  <Class Name="BackGroundWorkSample.frmBackGround">
+    <Position X="0.5" Y="0.5" Width="6.75" />
+    <TypeIdentifier>
+      <FileName>frmBackGround.cs</FileName>
+      <HashCode>IAAAQAAAACAAEBAAAADAEAACAAAAACAAQEAgACKCQAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

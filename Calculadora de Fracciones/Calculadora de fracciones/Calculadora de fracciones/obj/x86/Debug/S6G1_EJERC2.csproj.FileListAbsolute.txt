@@ -1,0 +1,19 @@
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\bin\Debug\S6G1_EJERC2.exe
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\bin\Debug\S6G1_EJERC2.pdb
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.Form1.resources
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.Properties.Resources.resources
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.exe
+C:\Documents and Settings\ITCA\Configuración local\Datos de programa\Temporary Projects\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.pdb
+F:\2 ciclo MEGATEC\Desarrollo de Programas Orientado a Objetos\GUIAS\Semana 6\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.exe
+F:\2 ciclo MEGATEC\Desarrollo de Programas Orientado a Objetos\GUIAS\Semana 6\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.pdb
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.exe
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.pdb
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\bin\Debug\S6G1_EJERC2.exe
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\bin\Debug\S6G1_EJERC2.pdb
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.Form1.resources
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Downloads\S6G1_EJERC2\S6G1_EJERC2\S6G1_EJERC2\obj\x86\Debug\S6G1_EJERC2.csproj.GenerateResource.Cache

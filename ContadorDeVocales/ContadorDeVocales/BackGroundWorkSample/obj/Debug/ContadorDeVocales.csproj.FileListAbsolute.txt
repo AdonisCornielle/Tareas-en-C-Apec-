@@ -1,0 +1,16 @@
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\bin\Debug\BackGroundWorkSample.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\bin\Debug\BackGroundWorkSample.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\ContadorDeVocales.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.frmBackGround.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BackGroundWorkSample\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\ContadorDeVocales.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\bin\Debug\BackGroundWorkSample.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\bin\Debug\BackGroundWorkSample.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\obj\Debug\ContadorDeVocales.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.frmBackGround.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ContadorDeVocales\ContadorDeVocales\BackGroundWorkSample\obj\Debug\ContadorDeVocales.csproj.GenerateResource.Cache

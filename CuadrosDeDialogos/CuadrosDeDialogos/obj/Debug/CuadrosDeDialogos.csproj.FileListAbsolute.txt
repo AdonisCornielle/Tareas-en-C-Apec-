@@ -1,0 +1,18 @@
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\bin\Debug\CuadrosDeDialogos.exe.config
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\bin\Debug\CuadrosDeDialogos.exe
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\bin\Debug\CuadrosDeDialogos.pdb
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.Form1.resources
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.Properties.Resources.resources
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.csproj.GenerateResource.Cache
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.exe
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.pdb
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\bin\Debug\CuadrosDeDialogos.exe.config
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\bin\Debug\CuadrosDeDialogos.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\bin\Debug\CuadrosDeDialogos.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.Form1.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\CuadrosDeDialogos\CuadrosDeDialogos\obj\Debug\CuadrosDeDialogos.csproj.GenerateResource.Cache

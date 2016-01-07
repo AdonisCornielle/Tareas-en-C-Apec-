@@ -1,0 +1,14 @@
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.Form1.resources
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.Properties.Resources.resources
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\bin\Debug\FormulariosMDI.exe.config
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\bin\Debug\FormulariosMDI.exe
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\bin\Debug\FormulariosMDI.pdb
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.exe
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.pdb
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.Form2.resources
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.Form3.resources
+C:\Users\Adonis Cornielle\documents\visual studio 2013\Projects\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.Form4.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\FormulariosMDI\FormulariosMDI\bin\Debug\FormulariosMDI.exe.config
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\FormulariosMDI\FormulariosMDI\obj\Debug\FormulariosMDI.pdb

@@ -1,0 +1,17 @@
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\BarraDePorcentaje.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Adonis Cornielle\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\obj\Debug\BarraDePorcentaje.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\BarraDePorcentaje\WindowsFormsApplication1\obj\Debug\BarraDePorcentaje.csproj.GenerateResource.Cache

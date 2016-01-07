@@ -1,0 +1,9 @@
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\obj\Debug\ControlDeDialogo.Form1.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\obj\Debug\ControlDeDialogo.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\obj\Debug\ControlDeDialogo.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\bin\Debug\ControlDeDialogo.exe.config
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\bin\Debug\ControlDeDialogo.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\bin\Debug\ControlDeDialogo.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\obj\Debug\ControlDeDialogo.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\obj\Debug\ControlDeDialogo.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\ControlDeDialogo\ControlDeDialogo\obj\Debug\ControlDeDialogo.csprojResolveAssemblyReference.cache

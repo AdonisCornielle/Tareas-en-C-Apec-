@@ -1,0 +1,8 @@
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\obj\Debug\howto_list_prime_factors.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\obj\Debug\howto_list_prime_factors.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\bin\Debug\howto_list_prime_factors.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\bin\Debug\howto_list_prime_factors.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\obj\Debug\howto_list_prime_factors.Form1.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\obj\Debug\howto_list_prime_factors.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\bin\Debug\BackGroundWorkSample.exe
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\bin\Debug\BackGroundWorkSample.pdb
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.frmBackGround.resources
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.Properties.Resources.resources
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.csproj.GenerateResource.Cache
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.exe
+C:\Sirama\Articles\C#\BackGroundWorkSample\BackGroundWorkSample\obj\Debug\BackGroundWorkSample.pdb

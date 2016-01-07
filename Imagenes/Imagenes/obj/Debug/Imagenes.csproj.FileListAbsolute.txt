@@ -1,0 +1,17 @@
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.exe.config
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.exe
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.pdb
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.Form1.resources
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.Properties.Resources.resources
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.csproj.GenerateResource.Cache
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.exe
+c:\users\adonis cornielle\documents\visual studio 2013\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\bin\Debug\Imagenes.exe.config
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\obj\Debug\Imagenes.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\obj\Debug\Imagenes.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\bin\Debug\Imagenes.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\bin\Debug\Imagenes.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\obj\Debug\Imagenes.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\obj\Debug\Imagenes.Form1.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\obj\Debug\Imagenes.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Imagenes\Imagenes\obj\Debug\Imagenes.csproj.GenerateResource.Cache

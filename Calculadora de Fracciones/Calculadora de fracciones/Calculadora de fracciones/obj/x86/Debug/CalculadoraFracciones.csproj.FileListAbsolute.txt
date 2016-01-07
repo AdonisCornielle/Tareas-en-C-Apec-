@@ -1,0 +1,10 @@
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\S6G1_EJERC2.exe
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\S6G1_EJERC2.pdb
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\bin\Debug\S6G1_EJERC2.exe
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\bin\Debug\S6G1_EJERC2.pdb
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\CalculadoraFracciones.csprojResolveAssemblyReference.cache
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\S6G1_EJERC2.Form1.resources
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\S6G1_EJERC2.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Downloads\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\CalculadoraFracciones.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\S6G1_EJERC2.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\Calculadora de Fracciones\Calculadora de fracciones\Calculadora de fracciones\obj\x86\Debug\S6G1_EJERC2.pdb

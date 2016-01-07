@@ -1,0 +1,14 @@
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\bin\Debug\howto_list_prime_factors.exe
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\bin\Debug\howto_list_prime_factors.pdb
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.Form1.resources
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.exe
+C:\Users\Adonis Cornielle\Downloads\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\bin\Debug\howto_list_prime_factors.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\bin\Debug\howto_list_prime_factors.pdb
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.Form1.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.Properties.Resources.resources
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.csproj.GenerateResource.Cache
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.exe
+C:\Users\Adonis Cornielle\Documents\App Ascencio Programacion Visual\howto_list_prime_factors\howto_list_prime_factors\obj\Debug\howto_list_prime_factors.pdb
